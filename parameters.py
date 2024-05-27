@@ -1,0 +1,11 @@
+structure = 'sI'
+mode = 'Single'
+occupancy_density = 0.3
+iterations = 1000000
+T = 200
+system_size = 8
+input_file = f'transitions_sI_SO.dat'
+MP = False
+parameter = 'Density'
+probe_size = 32
+probe_amount = 10 
